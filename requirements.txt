@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+hydra-core
+matplotlib
+seaborn
+jupyter
