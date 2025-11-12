@@ -1,10 +1,8 @@
 data:
-  path: "titanic-ml-pipeline/data/train.csv"
-
+  path: data/titanic.csv
 processing:
   test_size: 0.2
   random_state: 42
-
 model:
-  name: "random_forest"
+  name: random_forest
   max_depth: 5
