@@ -5,7 +5,7 @@
 - Data loading and cleaning pipeline
 - EDA revealing survival patterns by class and gender
 
-## Next sTeps
+## Next Steps
 - Feature Engineering
 - Model training with Random Forest
 - Model evaluation
